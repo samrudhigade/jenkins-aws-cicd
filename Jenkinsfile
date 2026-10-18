@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        WEB_SERVER = 'WEB_SERVER_PRIVATE_IP'
+        WEB_SERVER = '172.31.33.61'
         DEPLOY_USER = 'deploy'
     }
 
